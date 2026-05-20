@@ -107,7 +107,8 @@ Fine-tunes `distilbert-base-uncased` on labeled privacy policy sentences. Tokeni
 
 ## 🧪 Training Results
 
-![Training Results](../assets/training_results.png)
+<img width="1637" height="930" alt="Screenshot 2026-05-19 172533" src="https://github.com/user-attachments/assets/6585309b-74ae-435b-afc8-0d00b8b99fee" />
+
 
 | Epoch | Eval Loss |
 |-------|-----------|
@@ -116,8 +117,12 @@ Fine-tunes `distilbert-base-uncased` on labeled privacy policy sentences. Tokeni
 | 3     | 0.6461    |
 
 
-## 📸 Demo
-![PolicyGuard Demo](assets/popup_demo.png)
+## 📸 Output
+<img width="1918" height="988" alt="Screenshot 2026-05-19 180243" src="https://github.com/user-attachments/assets/b817bb1b-75b4-4520-9969-95cba5666ab5" />
+
+<img width="1836" height="966" alt="Screenshot 2026-05-19 180307" src="https://github.com/user-attachments/assets/21f9dfa2-4592-49ea-87ab-8b4800d9ef36" />
+
+
 
 ## 🛠️ Tech Stack
 
