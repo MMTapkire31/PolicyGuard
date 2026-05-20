@@ -1,0 +1,31 @@
+{
+    "manifest_version": 3,
+
+    "name": "PolicyGuard",
+    "version": "1.0",
+
+    "description": "Analyzes privacy policies and highlights risks using DistilBERT",
+
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon.png"
+    },
+
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["content.js"]
+        }
+    ],
+
+    "permissions": [
+        "activeTab",
+        "scripting",
+        "tabs"
+    ],
+
+    "host_permissions": [
+        "<all_urls>",
+        "http://localhost:5000/*"
+    ]
+}

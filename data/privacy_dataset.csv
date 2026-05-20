@@ -1,0 +1,101 @@
+sentence,label
+"We may share your personal data with third-party partners.",1
+"We sell your data to advertising networks.",1
+"Your information may be disclosed to our affiliates.",1
+"We share your location data with third parties.",1
+"We may transfer your data to external vendors.",1
+"Your data may be shared with our business partners.",1
+"We provide your personal information to advertisers.",1
+"We may disclose your data to law enforcement without notice.",1
+"Your information is shared with analytics companies.",1
+"We share your browsing history with third parties.",1
+"We retain your data indefinitely.",1
+"Your data is stored for an unlimited period of time.",1
+"We keep your personal information for up to 10 years.",1
+"Your data may be retained even after account deletion.",1
+"We store your information as long as we see fit.",1
+"Your data is kept for business purposes without a time limit.",1
+"We may retain your information after you close your account.",1
+"Your browsing history is stored permanently.",1
+"We keep logs of your activity for 7 years.",1
+"Your payment information is retained indefinitely.",1
+"You cannot opt out of data collection.",1
+"You waive your right to data deletion.",1
+"We do not honor do not track requests.",1
+"You have no right to access your stored data.",1
+"Users cannot request deletion of their personal data.",1
+"You forfeit ownership of all uploaded content.",1
+"We do not respond to data access requests.",1
+"You cannot withdraw consent once given.",1
+"Opting out of data collection is not available.",1
+"You have no right to correct inaccurate data.",1
+"Your subscription auto-renews without prior notice.",1
+"All payments are non-refundable under any circumstances.",1
+"We charge your card automatically at the end of each billing cycle.",1
+"You will be billed even if you do not use the service.",1
+"We may change subscription prices without notice.",1
+"Cancellation does not entitle you to a refund.",1
+"We charge additional fees not disclosed at signup.",1
+"Your free trial automatically converts to a paid plan.",1
+"We may charge your payment method without explicit confirmation.",1
+"Refunds are not available for any reason.",1
+"We collect your precise GPS location at all times.",1
+"Your location is tracked even when the app is closed.",1
+"We monitor your physical location continuously.",1
+"Your geolocation data is collected in the background.",1
+"We track your whereabouts using your device sensors.",1
+"Your location history is stored and analyzed.",1
+"We collect location data without explicit consent.",1
+"Your real-time location is shared with third parties.",1
+"We use your GPS data for targeted advertising.",1
+"Your location is recorded every time you use the app.",1
+"We monitor all your activities on our platform.",1
+"Your keystrokes may be recorded for analytics purposes.",1
+"We track your browsing behavior across other websites.",1
+"Your device microphone may be accessed without explicit permission.",1
+"We collect data from your contacts list.",1
+"Your private messages may be scanned for advertising purposes.",1
+"We access your camera without explicit notification.",1
+"Your search history is monitored and stored.",1
+"We collect your biometric data without clear consent.",1
+"Your behavioral patterns are tracked and sold.",1
+"We do not share your personal data with any third parties.",0
+"Your information is never sold to advertisers.",0
+"We do not disclose your data to external companies.",0
+"Your personal information remains strictly confidential.",0
+"We never share your data without your explicit consent.",0
+"Your information is only used to provide our services.",0
+"We do not transfer your data to any outside parties.",0
+"Your data is kept private and secure at all times.",0
+"We do not provide your information to partners or affiliates.",0
+"Your personal data is never shared with advertisers.",0
+"You can delete your account and all associated data at any time.",0
+"We provide full data deletion upon request.",0
+"You have the right to access all data we hold about you.",0
+"You can request a copy of your personal data anytime.",0
+"We honor all data deletion requests within 30 days.",0
+"You can opt out of data collection at any time.",0
+"We respect your right to be forgotten.",0
+"You can withdraw consent at any time without penalty.",0
+"We allow you to correct any inaccurate personal information.",0
+"Your right to data portability is fully supported.",0
+"We retain your data only as long as necessary.",0
+"Your data is deleted after 90 days of account inactivity.",0
+"We store your information only for the duration of your subscription.",0
+"Your data is automatically deleted when you close your account.",0
+"We keep your information only as required by law.",0
+"Your data is stored for a maximum of 12 months.",0
+"We delete all personal data upon account termination.",0
+"Your information is removed from our servers within 30 days of deletion.",0
+"We do not retain data beyond the stated retention period.",0
+"Your data is purged from all backups within 60 days.",0
+"Your data is encrypted using industry standard AES-256 encryption.",0
+"We use secure SSL connections to protect your information.",0
+"Your password is stored using strong cryptographic hashing.",0
+"We conduct regular security audits to protect your data.",0
+"Your information is protected by strict security measures.",0
+"We notify you immediately in case of a data breach.",0
+"Your data is stored on secure servers with restricted access.",0
+"We comply with GDPR and all applicable privacy regulations.",0
+"Your information is protected in accordance with international standards.",0
+"We are committed to maintaining the highest level of data security.",0
