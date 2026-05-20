@@ -115,6 +115,10 @@ Fine-tunes `distilbert-base-uncased` on labeled privacy policy sentences. Tokeni
 | 2     | 0.6686    |
 | 3     | 0.6461    |
 
+
+## 📸 Demo
+![PolicyGuard Demo](assets/popup_demo.png)
+
 ## 🛠️ Tech Stack
 
 | Technology | Purpose | Why chosen |
